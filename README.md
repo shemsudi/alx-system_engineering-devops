@@ -1,1 +1,2 @@
-task 0,where am i
+#!/bin/bash
+ switches the current user to the user betty
